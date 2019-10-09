@@ -14,7 +14,7 @@ const INMUTABLE_CACHE = 'inmutable-v1';
 // Arxius necessaris a la cache statica
 
 const APP_SHELL = [
-    '/',
+    // '/',
     'index.html',
     'img/favicon.ico',
     'img/avatars/hulk.jpg',
